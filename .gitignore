@@ -1,4 +1,3 @@
-env/
-.idea/
 invoice/__pycache__/
 invoice_system_management/__pycache__/
+venv/
